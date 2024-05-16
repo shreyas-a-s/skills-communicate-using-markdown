@@ -23,3 +23,8 @@ function M.config()
   })
 end
 ```
+
+# Checklist
+- [x] First item
+- [x] Second item
+- [ ] Third item
