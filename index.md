@@ -1,30 +1,22 @@
-# Adding header 1
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# Hi, guys 👋
+## My name is Shreyas A S
+### I'm a final year student at University College of Engineering College, Kariavattom
+#### I started loving to code when I created a bash script to add cutomizations to Linux that I was using
+##### I'm currently learning web development and I love media queries now
+###### I'm hoping to land a job as Software/Web developer in a reputed company through Launchpad
+---
+![profile-picture-full](https://github.com/shreyas-a-s/skills-communicate-using-markdown/assets/137637016/ed156ee1-cf81-4d2a-9b47-f517a98da495)
 
 # Lua code
 ```lua
-function M.config()
-  require("ibl").setup({
-    indent = { char = "┊" },
-    scope = { enabled = false },
-    exclude = {
-      filetypes = {
-        "help",
-        "startify",
-        "dashboard",
-        "lazy",
-        "neogitstatus",
-        "NvimTree",
-        "Trouble",
-        "text",
-      },
-    },
-  })
+function whoami()
+  print("Hi! I'm Shreyas. Nice to meet you.")
 end
+
+whoami()
 ```
 
 # Checklist
-- [x] First item
-- [x] Second item
-- [ ] Third item
+- [x] Degree
+- [x] Coding Knowledge
+- [ ] Job
